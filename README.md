@@ -1,6 +1,6 @@
 # Hi, my name's João Lucas ^-^
 
-:vulcan_salute: ### Basic informations about Me: </br>
+:vulcan_salute: <h2>Basic informations about Me:</h2> </br>
 :boy: I'm 17 years old </br>
 :city_sunset: I live in Minas Gerais, Brazil
 
