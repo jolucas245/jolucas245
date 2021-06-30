@@ -8,6 +8,23 @@
 
 <h2>____________ Development Skills ____________</h2> <img src="https://user-images.githubusercontent.com/65248543/123959845-01435600-d985-11eb-9bb1-034e2ed018ee.gif" align="right" width="230">
 
+```javascript
+const joaoLucas = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Dart, Python3, SQL],
+  tools: [React, Flutter, Node, Material, Styled-Components, Next.js, Firebase, ParseServer, SaSS],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  languages: "Portuguese and English",
+  softSkills: {
+    comunication: "highly sociable",
+    flexibility: true,
+    leadership: true,
+    social intelligence: "in study",
+    mentor: "World"
+  },
+ challenge: "Achieve mastery of the subjects mentioned in the shortest possible time. Currently studying sociability!"
+}
+```
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
