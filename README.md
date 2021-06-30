@@ -6,4 +6,4 @@
 :city_sunset: I live in Minas Gerais, Brazil </br>
 :sun_with_face:I'm a sunset admirer
 
-<h2>____________ Development Skills ____________</h2> ![66205-coding](https://user-images.githubusercontent.com/65248543/123959845-01435600-d985-11eb-9bb1-034e2ed018ee.gif)
+<h2>____________ Development Skills ____________</h2> <img src="https://user-images.githubusercontent.com/65248543/123959845-01435600-d985-11eb-9bb1-034e2ed018ee.gif">
