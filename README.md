@@ -27,5 +27,5 @@
  <a href="https://discord.com/invite/avilaJoao#9355" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jolucas245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.99freelas.com.br/user/joao_avila" target="_blank"><img src="https://img.shields.io/badge/-99Freelas-%230077B5?style=for-the-badge&logo=99freelas&logoColor=white" target="_blank"></a> 
-    
-    ![Snake animation](https://github.com/jolucas245/jolucas245/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/jolucas245/jolucas245/blob/output/github-contribution-grid-snake.svg)
