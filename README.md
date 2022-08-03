@@ -16,7 +16,6 @@
   <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/65248543/182688913-c7431acb-d878-466a-9919-9b96bf1eb7da.gif?width=676&height=676">
-  ![](https://user-images.githubusercontent.com/65248543/182688913-c7431acb-d878-466a-9919-9b96bf1eb7da.gif)
 </div>
 
   ##
