@@ -1,4 +1,4 @@
-## Hi, I'm João, desenvolvedor Mobile/Web e BugHunter 👋
+## Hi, I'm João, Mobile/Web Developer and BugHunter (Ethical Hacker) 👋
 
 <div align="center">
   <a href="https://github.com/jolucas245">
