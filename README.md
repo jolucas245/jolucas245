@@ -15,6 +15,9 @@
   <img align="center" alt="Joao-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Joao-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Joao-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/65248543/182688913-c7431acb-d878-466a-9919-9b96bf1eb7da.gif?width=676&height=676">
 </div>
 
@@ -27,5 +30,3 @@
  <a href="https://discord.com/invite/avilaJoao#9355" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jolucas245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.99freelas.com.br/user/joao_avila" target="_blank"><img src="https://img.shields.io/badge/-99Freelas-%230077B5?style=for-the-badge&logo=99freelas&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/jolucas245/jolucas245/blob/output/github-contribution-grid-snake.gif)
