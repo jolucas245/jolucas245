@@ -1,4 +1,4 @@
-## Hi, I'm João, Mobile/Web Developer and BugHunter (Ethical Hacker) 👋
+## Hi, I'm João, Salesforce Developer and BugHunter (Ethical Hacker) 👋
 
 <div align="center">
   <a href="https://github.com/jolucas245">
